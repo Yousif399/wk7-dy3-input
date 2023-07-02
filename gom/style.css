@@ -1,0 +1,23 @@
+body{
+    background-color: rgba(68, 68, 159, 0.454);
+}
+
+h1 {
+    color: rgba(200, 130, 25, 0.805);
+}
+
+.color-change {
+    color: rgb(192, 24, 200);
+
+}
+.color-change1 {
+ 
+    color: rgb(24, 200, 86);
+
+}
+.color-change2 {
+ 
+    color: rgb(250, 243, 15);
+    background-color: rgba(63, 111, 111, 0.192);
+
+}
